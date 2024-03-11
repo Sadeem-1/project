@@ -1,0 +1,39 @@
+
+Description:
+In this mining project we decide as students to work on a student stress factors dataset is deeply personal and highly relevant. It's an opportunity to dive into the roots of what makes academic life challenging beyond just the coursework. Analyzing these stress factors can shed light on the myriad pressures we face such as academic deadlines, social expectations, time management, or the struggle to balance study and skills development . By understanding these stressors in detail, we can advocate for changes that directly benefit our mental health and skills academic performance. It's not just about academic curiosity; it's about identifying real, tangible ways to improve our daily lives and the educational environment as a whole. This kind of analysis can lead to more supportive learning spaces and better mental health resources. For those of us who've felt the weight of stress during our studies, By understanding and addressing these stress factors, we can create a more balanced and supportive academic journey for ourselves and future students.
+
+The goal of collecting the dataset "Student Stress Factors:
+A Comprehensive Analysis" is likely to understand and analyze the factors contributing to stress among students. By gathering data on various aspects of students' lives, such as demographics, academic performance, lifestyle choices, and mental health indicators, the dataset aims to provide insights into the complexities of student stress. The ultimate objective may include identifying patterns, correlations, and potential predictors of stress, as well as informing interventions and strategies to support student well-being in educational settings.
+
+The source
+
+Number of objects: 1100
+
+Number of attributes: 21
+
+Class label: stress_level
+
+
+ | Attribute Name                  | Description                                       | Range       | Data Type     |
+|---------------------------------|---------------------------------------------------|-------------|---------------|
+| Anxiety Level                   | Intensity of anxiety symptoms                     | 0.0 to 21.0 | Integer       |
+| Self Esteem                     | Overall subjective evaluation of one's own worth  | 0.0 to 30.0 | Integer       |
+| Mental Health History           | History of mental health issues (0=No, 1=Yes)     | 0.0 to 1.0  | Binary        |
+| Depression                      | Severity of depression symptoms                   | 0.0 to 27.0 | Integer       |
+| Headache                        | Frequency or severity of headaches                | 0.0 to 5.0  | Integer       |
+| Blood Pressure                  | Levels of blood pressure (1=Low, 2=Normal, 3=High)| 1.0 to 3.0  | Categorical   |
+| Sleep Quality                   | Perceived quality of sleep                        | 0.0 to 5.0  | Integer       |
+| Breathing Problem               | Severity of breathing problems                    | 0.0 to 5.0  | Integer       |
+| Noise Level                     | Level of noise in the environment                 | 0.0 to 5.0  | Integer       |
+| Living Conditions               | Quality of living conditions                      | 0.0 to 5.0  | Integer       |
+| Safety                          | Perception of safety                              | 0.0 to 5.0  | Integer       |
+| Basic Needs                     | Fulfillment of basic needs                        | 0.0 to 5.0  | Integer       |
+| Academic Performance            | Perception of academic performance                | 0.0 to 5.0  | Integer       |
+| Study Load                      | Perceived workload from studies                   | 0.0 to 5.0  | Integer       |
+| Teacher-Student Relationship    | Quality of teacher-student relationships          | 0.0 to 5.0  | Integer       |
+| Future Career Concerns          | Level of concern about future career prospects    | 0.0 to 5.0  | Integer       |
+| Social Support                  | Level of social support received                  | 0.0 to 3.0  | Integer       |
+| Peer Pressure                   | Level of pressure felt from peers                 | 0.0 to 5.0  | Integer       |
+| Extracurricular Activities      | Extent of participation in activities             | 0.0 to 5.0  | Integer       |
+| Bullying                        | Presence and severity of bullying experiences     | 0.0 to 5.0  | Integer       |
+| Stress Level                    | Overall level of stress experienced               | 0.0 to 2.0  | Categorical   |
